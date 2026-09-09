@@ -1,0 +1,17 @@
+{
+  "name": "genpark-chord-dht-finger-table-lookup-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Chord Distributed Hash Table (DHT) Protocol with M-Bit Circular Finger Tables",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "p2p-networks",
+    "chord-dht",
+    "finger-table",
+    "p2p-routing"
+  ]
+}
